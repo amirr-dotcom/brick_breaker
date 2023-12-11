@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599618456559",
+    "project_id": "brick-brea",
+    "storage_bucket": "brick-brea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599618456559:android:989e9c18720992fd08041a",
+        "android_client_info": {
+          "package_name": "com.example.brick_breaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrgxxdAPVkNTMqbpGb-ZfbhuZ4i3Uh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
