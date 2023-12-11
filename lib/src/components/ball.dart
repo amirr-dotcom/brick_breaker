@@ -22,13 +22,14 @@ class Ball extends CircleComponent
         ..style = PaintingStyle.fill,
       children: [CircleHitbox()]);
 
-  final Vector2 velocity;
+  Vector2 velocity;
   final double difficultyModifier;
+
 
   @override
   void update(double dt) {
     super.update(dt);
-    position += velocity * dt;
+    position += -velocity * dt;
   }
 
   @override

@@ -24,4 +24,4 @@ final brickWidth =
     (gameWidth - (brickGutter * (brickColors.length + 1)))
         / brickColors.length;
 const brickHeight = gameHeight * 0.03;
-const difficultyModifier = 1.03;                                // To here.
+const difficultyModifier = 1.05;                                // To here.
